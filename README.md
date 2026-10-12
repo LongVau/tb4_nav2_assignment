@@ -37,6 +37,7 @@ ros2 launch tb4_nav2_assignment tb4_slam.launch.py
 ```bash
 ros2 run teleop_twist_keyboard teleop_twist_keyboard
 ```
+Hoặc có thể sử dụng công cụ lái xe có sẵn trong Gazebo của Turtlebot4
 
 3. **Lưu bản đồ sau khi quét xong:**
 ```bash
